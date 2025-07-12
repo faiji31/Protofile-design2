@@ -1,0 +1,35 @@
+.playfair-display-normal {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+ul li{
+    list-style: none;
+
+}
+ul li a{
+    text-decoration: none;
+}
+.id{
+    font-weight: bold;
+    font-size: 32px;
+    color: #0E0E0E;
+}
+#btn{
+    font-weight: 400;
+    font-size: 18px;
+    color: #006A50;
+    background-color: transparent;
+    padding: 10px ;
+    border: 2px solid green;
+    transition: 0.9s ease;
+}
+#btn:hover{
+    color:white;
+    background: green;
+}
