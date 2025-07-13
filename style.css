@@ -171,3 +171,15 @@ padding: 11px 20px;
 .card{
     margin: 0px 80px;
 }
+#h1-1{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.description1-0{
+    padding: 20px;
+    margin: 40px 80px;
+    background-color: aquamarine;
+    border-radius: 10px;
+
+}
