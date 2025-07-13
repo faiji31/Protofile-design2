@@ -36,3 +36,41 @@ ul li a{
 nav{
     margin: 40px 80px;
 }
+.banner{
+    display: flex;
+    background-color: #C6E4D6;
+    padding: 20px 40px;
+    margin: 80px;
+    border: 5px solid #C6E4D6;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: space-between;
+    transition: 0.9s;
+}
+.btn{
+    padding: 17px 34px;
+    font-weight: bold;
+    background-color: #006A50;
+    color: white;
+    cursor: pointer;
+    transition: 0.9s ease;
+    border: none;
+    border-radius: 5px;
+}
+.btn:hover{
+    background:red;
+    color: black;
+}
+#h3{
+    color:#736e6e;
+    font-size: 24px;
+    font-weight: 600;
+}
+.h2{
+    color:#0E0E0E;
+    font-weight: bold;
+    font-size: 56px;
+}
+.banner:hover{
+    background-color: #006A50;
+}
