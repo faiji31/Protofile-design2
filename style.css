@@ -181,5 +181,9 @@ padding: 11px 20px;
     margin: 40px 80px;
     background-color: aquamarine;
     border-radius: 10px;
+    transition: 0.9s ease;
 
+}
+.description1-0:hover{
+    background-color:tomato;
 }
